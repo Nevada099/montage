@@ -1,0 +1,62 @@
+[
+  {
+    "scene": 1,
+    "source": "sources/087866F6-1B92-4162-8B97-0A16171B6DB4_4_5005_c.jpeg",
+    "in": 0,
+    "duration": 2.5
+  },
+  {
+    "scene": 2,
+    "source": "sources/242F4C42-6D4E-46E2-9D08-1D5F3BB9C2B5_4_5005_c.jpeg",
+    "in": 0,
+    "duration": 2.5
+  },
+  {
+    "scene": 3,
+    "source": "sources/94F0242C-5A40-4917-9B18-3C8B2B3DD87F_4_5005_c.jpeg",
+    "in": 0,
+    "duration": 2.5
+  },
+  {
+    "scene": 4,
+    "source": "sources/0C8A562B-D188-4264-A4D2-76D210F67442_4_5005_c.jpeg",
+    "in": 0,
+    "duration": 2.5
+  },
+  {
+    "scene": 5,
+    "source": "sources/IMG_8576.MOV",
+    "in": 0.5,
+    "duration": 4
+  },
+  {
+    "scene": 6,
+    "source": "sources/IMG_8576.MOV",
+    "in": 6,
+    "duration": 2.5
+  },
+  {
+    "scene": 7,
+    "source": "sources/IMG_8576.MOV",
+    "in": 9,
+    "duration": 3
+  },
+  {
+    "scene": 8,
+    "source": "sources/IMG_8576.MOV",
+    "in": 20,
+    "duration": 4
+  },
+  {
+    "scene": 9,
+    "source": "sources/IMG_8576.MOV",
+    "in": 28,
+    "duration": 3
+  },
+  {
+    "scene": 10,
+    "source": "sources/IMG_8576.MOV",
+    "in": 1.5,
+    "duration": 3.5
+  }
+]
